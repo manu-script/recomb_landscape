@@ -27,3 +27,16 @@ $ cd recomb_landscape/
 $ bash reproduce.bash
 ```
 >The entire analyses will take about 75 minutes on a 3Ghz quad-core machine.
+
+### HOTSPOTS & COLDSPOTS MAP
+
+The complete list of hotspots and coldspots with their genomic locations and strengths across all the populations arising out of this study. All the genomic coordinates are in hg19 genome build.
+
+>Header description
+- chr,start,end: Genomic coordinates
+- width: end-start
+- Validated: (True/False) In accordance with Refined Pedigree-based recombination rates
+- Conserved: (True/False) If active in all the 20 populaions
+- COS_rate: Cosmopolitan LD-based recombination rate averaged across 20 populations
+- (Population)_rate: Population-specific LD-based recombination rate
+- REFINED_rate: Refined Pedigree-based recombination rate
