@@ -1,6 +1,6 @@
 ![N|Solid](http://www.ibab.ac.in/wp-content/uploads/2013/11/IBAB-logo.png)
 
-Codes and Datasets used in the manuscript titled "Systematic Analyses of Autosomal Recombination Rates from the 1000 Genomes Project Uncovers the Global Recombination Landscape in Humans."
+Codes and Datasets accompanying the manuscript titled "Systematic Analyses of Autosomal Recombination Rates from the 1000 Genomes Project Uncovers the Global Recombination Landscape in Humans."
 
 ### Data Sources
 The following links point to the original sources from where the datasets have been downloaded.
